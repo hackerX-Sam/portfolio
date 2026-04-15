@@ -1,5 +1,6 @@
-# robots.txt — bogdankolomiyets.com
-User-agent: *
-Allow: /
+# robots.txt — samirandas.com
 
-Sitemap: https://www.bogdankolomiyets.com/sitemap.xml
+User-agent: *
+Disallow:
+
+Sitemap: https://samirandas.com/sitemap.xml
