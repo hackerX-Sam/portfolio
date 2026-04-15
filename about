@@ -197,25 +197,7 @@
           </div>
         </section>
       </div>
-      <div class="hero_sticky-wrapper" style="background-color: var(--base-color-brand--brand); margin-top: 4rem;">
-        <section class="section_hero">
-          <div class="padding-global">
-            <div class="container-large">
-              <div id="hero-container" class="hero_content-wrapper">
-                <div class="hero_title-wrapper">
-                  <h1 class="proccess-title u-text-style-trim" style="color: #000;"><span class="text-style-accent" style="color: #fff; font-size: 20cqi; position: absolute; inset: 60% auto 0% 0%; z-index: 10;">My</span> Story</h1>
-                </div>
-                <div class="hero_description-wrapper grid-12">
-                  <p id="w-node-story-description" class="process_description" style="color: #000; font-weight: 500;">I build secure, high-impact websites for tech communities. Specialized in cybersecurity, I blend clean design with a security-first mindset. National-level athlete and music lover.</p>
-                  <div id="w-node-story-scroll" class="process-scroll-instruction" style="color: #000;">(SCROLL TO MY STORY)</div>
-                </div>
-                <img class="proccess_hero_image" src="https://ik.imagekit.io/logicsync/original-c9ff2550bb7625386db60238235d862c.webp" width="682" alt="Samiran Das - My Story silhouette" loading="lazy" style="z-index: 10; object-fit: contain; object-position: 50% 100%; width: 100%; height: 90%; position: absolute; inset: auto 0% 0%; overflow: hidden;">
-                <div class="hero_gradient" style="background-image: linear-gradient(0deg, var(--base-color-brand--brand), #0000);"></div>
-              </div>
-            </div>
-          </div>
-        </section>
-      </div>
+
     </main>
     <footer id="site-footer" class="footer w-node-_5c846574-619c-abe4-bf11-5f1244a51ee1-44a51ee1">
       <div class="padding-global">
